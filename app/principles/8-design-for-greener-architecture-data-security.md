@@ -12,7 +12,7 @@ Version 1.0 updated 20 February 2025
 
 * * *
 
-Adopt a range of strategies to reduce software’s processing requirements, including choosing programming languages and frameworks that are energy efficient, development approaches and testing and DevOps. 
+Greener approaches to architecture, data and security maximise efficiency and reduce waste.
 
 ## Lead Roles
 

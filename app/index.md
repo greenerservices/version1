@@ -54,12 +54,12 @@ Ned test text!
 * * *
 
 ## 8\. Design for greener architecture, data and security
-[Read more](principles/8-develop-and-test-for-efficent-engineering)
+[Read more](principles/8-design-for-greener-architecture-data-security.md)
 
 * * *
 
 ## 9\. Develop and test for efficiency
-[Read more](#)
+[Read more](principles/9-develop-and-test-for-efficent-engineering.md)
 
 * * *
 
