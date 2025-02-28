@@ -23,7 +23,7 @@ Ned test text!
 [Read more](#)
 * * *
 
-## 2\. Define service and sustainability goals and strategy
+## 2\. Create a sustainability strategy
 [Read more](#)
 
 * * *
@@ -33,37 +33,37 @@ Ned test text!
 
 * * *
 
-## 4\. Support greener ways of team working
+## 4\. Work with partners who can support greener goals
 [Read more](#)
 
 * * *
 
-## 5\. Work with partners who can support greener goals
+## 5\. Take a greener approach to AI and software tools
 [Read more](#)
 
 * * *
 
-## 6\. Design for efficient journeys across all channels
+## 6\. Take a greener approach to hardware
 [Read more](#)
 
 * * *
 
-## 7\. Design for efficient and carbon aware architecture
+## 7\. Design for greener user journeys across all channels
 [Read more](#)
 
 * * *
 
-## 8\. Develop and test for greener engineering
+## 8\. Design for greener architecture, data and security
 [Read more](principles/8-develop-and-test-for-efficent-engineering)
 
 * * *
 
-## 9\. Operate a greener service
+## 9\. Develop and test for efficiency
 [Read more](#)
 
 * * *
 
-## 10\. Apply circular thinking to the service
+## 10\. Operate a greener service
 [Read more](#)
 
 * * *
