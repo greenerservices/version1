@@ -14,20 +14,33 @@ Version 1.0 updated 20 February 2025
 
 Greener approaches to architecture, data and security maximise efficiency and reduce waste. TEST
 
-## Lead Roles
+## Likley lead roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+Technical architect, data architect, data architect
 
 * * *
 
 ## Actions
-[8a. Consider sustainability in selection of languages and frameworks](#)
-[8b. Develop efficient software](/principles/actions/8b-develop-efficient-software)
-[8c. Create an efficient testing approach](#)
-[8d. Run testing efficiently ](#)
-[8e. Consider a greener DevOps approach](#)
+[8a. Use data to inform technology choices from the start](#)
+[8b. Develop efficient software](/principles/actions/8b-use-sustainable-design-patterns)
+[8c. Build and reuse common components](#)
+[8d. Optimise your cloud computing service model](#)
+[8e. Optimise workloads](#)
+[8f. Optimise network architecture for efficient scale](#)
+[8g. Consider data collection](#)
+[8h. Consider data storage and management](#)
+[8i. Consider security controls](#)
+
+* * *
+
+## Environmental benefits
+
+<p class="govuk-body"><strong class="govuk-tag">
+  Developer
+</strong></p>
+<p class="govuk-body"><strong class="govuk-tag">
+  Developer
+</strong></p>
 
 * * *
 
