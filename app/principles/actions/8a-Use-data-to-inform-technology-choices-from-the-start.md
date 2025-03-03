@@ -1,11 +1,11 @@
 ---
 homepage: false
 layout: main
-title: 8b. Develop efficient software
+title: 8a. Use data to inform technology choices from the start
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 8b. Develop efficient software
-  parent:  8. Develop and test for efficient engineering
+  key: 8b. Use data to inform technology choices from the start
+  parent:  8. Design for greener architecture, data and security
 ---
 
 Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.

@@ -15,9 +15,9 @@ Greener approaches to architecture, data and security maximise efficiency and re
 </div>
 
 ## Actions
-[8a. Use data to inform technology choices from the start](#)
+[8a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
 [8b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
-[8c. Build and reuse common components](#)
+[8c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
 [8d. Optimise your cloud computing service model](#)
 [8e. Optimise workloads](#)
 [8f. Optimise network architecture for efficient scale](#)
@@ -45,7 +45,8 @@ Technical architect, data architect, data architect
 * * *
 
 ## Tools and frameworks
-[Read more](#)
+
+Placeholder
 
 * * *
 
