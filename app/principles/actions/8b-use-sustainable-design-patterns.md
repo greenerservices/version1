@@ -23,7 +23,7 @@ Technical architect
 [8b.(i) Follow patterns for microservices](#(i)-follow-patterns-for-microservices)
 [8b.(ii) Apply best practices for containers](#(ii)-apply-best-practices-for-containers)
 [8b.(iii) Use autoscaling capabilities](#(iii)-use-autoscaling-capabilities)
-[8b.(iv) Prioritise open source and inner source where possible](#(i)-consider-server-side-rendering)
+[8b.(iv) Prioritise open source and inner source where possible](#(iv)-consider-server-side-rendering)
 [8b.(v) Use caching](#(ii)-utilise-lazy-loading)
 [8b.(vi) Design for asynchronous patterns and transactions](#(iii)-utilise-caching-where-possible)
 

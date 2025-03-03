@@ -14,24 +14,22 @@ Greener approaches to architecture, data and security maximise efficiency and re
   <p class="govuk-body">These actions can generally be applied to on-premises systems as well as cloud.</p>
 </div>
 
-### Likley lead roles
-
-Technical architect, data architect, data architect
-
-* * *
-
 ## Actions
 [8a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
 [8b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
 [8c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
 [8d. Optimise your cloud computing service model](/principles/actions/8d-optimise-your-cloud-computing-service-model)
-[8e. Optimise workloads](/principles/actions/8e-optimise-workloads)
-[8f. Optimise network architecture for efficient scale](/principles/actions/8f-optimise-network-architecture-for-efficient-scale)
-[8g. Identify data to be collected](/principles/actions/8g-identify-data-to-be-collected)
-[8h. Determine data storage and management practices](/principles/actions/8h-determine-data-storage-and-management-practices)
-[8i. Consider security controls](/principles/actions/8i-consider-security-controls)
+[8e. Optimise workloads](principles/actions/8e-optimise-workloads)
+[8f. Optimise network architecture for efficient scale](principles/actions/8f-optimise-network-architecture-for-efficient-scale)
+[8g. Consider data collection](principles/actions/8g-consider-data-collection)
+[8h. Consider data storage and management](principles/actions/8h-consider-data-storage-and-management)
+[8i. Consider security controls](principles/actions/8i-consider-security-controls)
 
+* * *
 
+### Likley lead roles
+
+Technical architect, data architect
 
 * * *
 

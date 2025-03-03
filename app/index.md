@@ -67,7 +67,7 @@ These principles have been developed through a collaborative and open process in
 * * *
 
 ## 9\. Develop and test for efficiency
-[Read more](principles/9-develop-and-test-for-efficent-engineering)
+[Read more](principles/9-develop-and-test-for-efficency)
 
 * * *
 
