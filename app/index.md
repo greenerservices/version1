@@ -6,17 +6,28 @@ eleventyNavigation:
   key: Principles
 ---
 
-Version 1.0 updated 20 February 2025
+{% from "govuk/components/phase-banner/macro.njk" import govukPhaseBanner %}
+
+{{ govukPhaseBanner({
+  tag: {
+    text: "Version 1.0"
+  },
+  html: 'Updated 28th Feb 2025. Help us improve it and <a class="govuk-link" href="#">give your feedback by email</a>.'
+}) }}
 
 * * *
 
 A set of principles and action to guide the design, delivery and operation of more environmentally sustainable services.
 
-These principles represent guidance on best practice from an environmental sustainability perspective, covering all the lifecycle phases and disciplines involved in service projects. In many cases, the content of the principles build on what is already established best practice from a usability, cost, reliability or another angle.
-
 The principles have been developed through a collaborative and open process in UK government. [Read more](#) on the process on the about page
 
-Ned test text!
+<div class="govuk-inset-text app-wcag-callout">
+
+#### Likely environmental impact: medium
+  <p class="govuk-body">These principles represent guidance on best practice from an environmental sustainability perspective, covering all the lifecycle phases and disciplines involved in service projects. In many cases, the content of the principles build on what is already established best practice from a usability, cost, reliability or another angle.</p>
+  <p class="govuk-body">See the full list of <a class="govuk-link" href="/accessibility/wcag-2.2/#components-and-patterns-affected-in-the-design-system">components and patterns affected by WCAG 2.2</a>.</p>
+</div>
+
 
 * * *
 ## 1\. Understand the problem and policy intent

@@ -4,25 +4,19 @@ layout: main
 title: 8. Design for greener architecture, data and security
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 8. Develop and test for efficient engineering
+  key: 8. Design for greener architecture, data and security
   parent: Principles
 ---
 
-Version 1.0 updated 20 February 2025
+Greener approaches to architecture, data and security maximise efficiency and reduce waste.
 
-* * *
-
-Greener approaches to architecture, data and security maximise efficiency and reduce waste. TEST
-
-## Likley lead roles
-
-Technical architect, data architect, data architect
-
-* * *
+<div class="govuk-inset-text app-wcag-callout">
+  <p class="govuk-body">These actions can generally be applied to on-premises systems as well as cloud.</p>
+</div>
 
 ## Actions
 [8a. Use data to inform technology choices from the start](#)
-[8b. Develop efficient software](/principles/actions/8b-use-sustainable-design-patterns)
+[8b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
 [8c. Build and reuse common components](#)
 [8d. Optimise your cloud computing service model](#)
 [8e. Optimise workloads](#)
@@ -33,13 +27,19 @@ Technical architect, data architect, data architect
 
 * * *
 
+## Likley lead roles
+
+Technical architect, data architect, data architect
+
+* * *
+
 ## Environmental benefits
 
 <p class="govuk-body"><strong class="govuk-tag">
-  Developer
+  Efficiency
 </strong></p>
 <p class="govuk-body"><strong class="govuk-tag">
-  Developer
+  Carbon Awareness
 </strong></p>
 
 * * *
