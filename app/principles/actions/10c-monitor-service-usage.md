@@ -1,14 +1,14 @@
 ---
 homepage: false
 layout: main
-title: 9b. Develop efficient software
+title: 10c. Monitor service usage
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 9b. Develop efficient software
-  parent:  9. Develop and test for efficient engineering
+  key: 10c. Monitor service usage
+  parent:  10. Operate a greener service
 ---
 
-Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Monitor the usage of a service.
 
 ## Lead Roles
 

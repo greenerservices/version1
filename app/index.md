@@ -72,6 +72,6 @@ These principles have been developed through a collaborative and open process in
 * * *
 
 ## 10\. Operate a greener service
-[Read more](#)
+[Read more](principles/10-operate-a-greener-service)
 
 * * *

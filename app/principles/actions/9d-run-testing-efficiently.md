@@ -1,14 +1,14 @@
 ---
 homepage: false
 layout: main
-title: 9b. Develop efficient software
+title: 9d. Run testing efficiently
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 9b. Develop efficient software
+  key: 9d. Run testing efficiently
   parent:  9. Develop and test for efficient engineering
 ---
 
-Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Choose efficient approaches to the running of testing. 
 
 ## Lead Roles
 
@@ -20,70 +20,64 @@ Various approaches can be adopted to reduce the energy consumption of both the �
 
 ## Sub-actions
 
-[8b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[8b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[8b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[9d. (i) Choose efficient testing tools](#(i)-choose-efficient-testing-tools)
+[9d. (ii) Test designs on representative devices and platforms](#(ii)-test-designs-on-representative-devices-and-platforms)
+[9d. (iii) Run tests in parallel](#(iii)-run-tests-in-parallel)
+[9d. (iv) Switch off test environments after use](#(iv)-switch-off-test-environments-after-use)
 
 * * *
 
-###  (i) Consider server side rendering
+###  (i) Choose efficient testing tools
 
-Server-side rendering (SSR) is a technique that involves rendering a web page on a server upfront before sending it to the user’s browser. This can save energy relative to client-side rendering (CSR), where the browser generates the content after receiving the raw data from the server.
+Use test tools and frameworks that consume less resource- including unit, integration, performance and security test tools. 
 
-Static site generation (SSG) can also be used to ‘pre-build’ webpages and eliminate the need for server-side processing.
+#### Environmental benefit: 
+Reduced resource consumption.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
-  summaryText: "Read more about server side rendering",
+  summaryText: "Read more",
   text: "Some placeholder text"
 }) }}
 * * *
 
-###  (ii) Utilise lazy loading
+###  (ii) Test designs on representative devices and platforms
 
-Lazy loading is a technique that delays the loading of resources until they are needed, such as when users scroll to them on a page, thereby saving data transfer and associated energy use. 
+Test design on different platforms and devices, including older devices. This can identify inefficiencies.
 
 #### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+Identifying inefficiencies can help reduce energy demands.
 
 {{ govukDetails({
-  summaryText: "Read more about lazy loading",
-  html: "
-
-#### Current level of adoption
-
-This sub-action is a new one to implement.  
-
-***
-  
-#### Co-benefits
-
-User experience: Lazy loading can improve initial page loading times and optimise memory usage, especially for applications with large datasets. 
-
-#### Trade-offs
- 
-Number of requests: Lazy loading may mean the browser has to send multiple requests to the server for content as some users interact with a page. 
-Development time: It may also mean additional code needs to be added to instruct the browser how to lazy load. 
-
-#### Implementation
-
-Guidance on implementing lazy loading:
-[https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices](https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices)
-
-#### Further reading 
-
-[https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/](https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/)
-
-"
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}
 
 * * *
 
-### (iii) Utilise caching where possible
+### (iii) Run tests in parallel
 
-Caching is the process of storing a copy of data in a temporary location. Caching techniques can focus on the browser, Content Delivery Networks (CDN) and Application Programme Interfaces (API).
+Running tests in parallel uses resources for a shorter time. Consider running tests when the grid is greener.
+
+#### Environmental benefit: 
+Using resources for less time and when the grid is greener cuts carbon footprint.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}
+
+* * *
+
+### (iv) Switch off test environments after use
+
+Testing environments mimic production environments. They can be switched off when not in use.
+
+#### Environmental benefit: 
+Turning off testing environments when not in use cuts energy consumption.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  text: "Some placeholder text"
+}) }}x

@@ -1,11 +1,11 @@
 ---
 homepage: false
 layout: main
-title: 9b. Develop efficient software
+title: 10b. Build on operational best practices
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 9b. Develop efficient software
-  parent:  9. Develop and test for efficient engineering
+  key: 10b. Build on operational best practices
+  parent:  10. Operate a greener service
 ---
 
 Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
@@ -20,9 +20,9 @@ Various approaches can be adopted to reduce the energy consumption of both the �
 
 ## Sub-actions
 
-[8b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[8b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[8b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[10b. (i) Consider server side rendering](#(i)-consider-server-side-rendering)
+[10b. (ii) Utilise lazy loading](#(ii)-utilise-lazy-loading)
+[10b. (iii) Utilise caching where possible](#(iii)-utilise-caching-where-possible)
 
 * * *
 
