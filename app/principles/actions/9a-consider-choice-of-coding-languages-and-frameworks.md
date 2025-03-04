@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-The choice of languages and frameworks can impact efficiency and consumption. 
+The choice of software languages and frameworks can impact efficiency and energy consumption. 
 
 ### Likely Lead Roles
 
@@ -18,48 +18,51 @@ Developer
 
 ## Sub-actions
 
-[9a. (i) Use energy-efficient languages, where appropriate](#(i)-consider-server-side-rendering)
-[9a. (ii) Use lightweight frameworks](#(ii)-utilise-lazy-loading)
-[9a. (iii) Consider benefits of low code/no code](#(iii)-utilise-caching-where-possible)
+[9a. (i) Use energy efficient languages](#(i)-use-energy-efficient-languages)
+[9a. (ii) Use lightweight frameworks](#(ii)-use-lightweight-frameworks)
+[9a. (iii) Consider the benefits of low code or no code](#(iii)-consider-the-benefits-of-low-code-or-no-code)
 
 * * *
 
-###  (i) Use energy-efficient languages, where appropriate
+###  (i) Use energy efficient languages
 
 There are differences between the energy consumption of programming languages. Consider:
 
-memory usage and speed
-if the language is a ‘compiled’ one
+• memory usage and speed
+• if the language is a ‘compiled’ one
 
 #### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+Choosing an energy efficient programming language cuts consumption.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
-  summaryText: "Read more about server side rendering",
+  summaryText: "Read more",
   text: "Some placeholder text"
 }) }}
 * * *
 
 ###  (ii) Use lightweight frameworks
 
-Lazy loading is a technique that delays the loading of resources until they are needed, such as when users scroll to them on a page, thereby saving data transfer and associated energy use. 
+Software frameworks help developers build applications by providing a structure for code. Some frameworks use less memory than others. Examples include Django, React and Spring.
 
 #### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+Choosing lightweight frameworks reduces computational demands in the browser.
 
 {{ govukDetails({
-  summaryText: "Read more about lazy loading",
+  summaryText: "Read more",
   html: "some placeholder"
 }) }}
 
 * * *
 
-### (iii) Consider benefits of low code/no code
+### (iii) Consider the benefits of low code or no code
 
-Caching is the process of storing a copy of data in a temporary location. Caching techniques can focus on the browser, Content Delivery Networks (CDN) and Application Programme Interfaces (API).
+Low-code or no-code are methods of designing and developing apps using drag and drop tools.
+
+#### Environmental benefit: 
+Choosing a low code or no code approach reduces the time and resources required to develop software.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more"
 }) }}

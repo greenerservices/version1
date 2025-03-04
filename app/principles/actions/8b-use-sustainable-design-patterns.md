@@ -23,9 +23,9 @@ Technical architect
 [8b.(i) Follow patterns for microservices](#(i)-follow-patterns-for-microservices)
 [8b.(ii) Apply best practices for containers](#(ii)-apply-best-practices-for-containers)
 [8b.(iii) Use autoscaling capabilities](#(iii)-use-autoscaling-capabilities)
-[8b.(iv) Prioritise open source and inner source where possible](#(iv)-consider-server-side-rendering)
-[8b.(v) Use caching](#(ii)-utilise-lazy-loading)
-[8b.(vi) Design for asynchronous patterns and transactions](#(iii)-utilise-caching-where-possible)
+[8b.(iv) Prioritise open and inner source where possible](#(iv)-prioritise-open-and-inner-source-where-possible)
+[8b.(v) Use caching](#(v)-use-caching)
+[8b.(vi) Design for asynchronous patterns and transactions](#(vi)-design-for-asynchronous-patterns-and-transactions)
 
 * * *
 
@@ -34,9 +34,7 @@ Technical architect
 A microservices architecture breaks applications into smaller, independent services. This helps us build composable and collaborative services, driven by events, commands and queries. 
 
 #### Environmental benefit: 
-<p class="govuk-body"><strong class="govuk-tag">
-  Efficiency
-</strong></p>
+Ensure that only the necessary resources are consumed.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -83,9 +81,6 @@ Containarized architecture means packaging software into self-contained units. T
 
 #### Environmental benefit: 
 Containerization helps ensure that services only consume necessary resources.
-<p class="govuk-body"><strong class="govuk-tag">
-  Efficiency
-</strong></p>
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -128,19 +123,24 @@ Guidance on implementing lazy loading:
 
 Autoscaling is about adjusting the resources allocated to a workload based on demand.
 
+#### Environmental benefit: 
+Ensure efficient resource use and reduces energy consumption during periods of low usage.
+
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more"
 }) }}
 
 * * *
 
-### (iv) Use open and inner source where possible
+### (iv) Prioritise open and inner source where possible
 
-Open source is software where the source is publicly available. This allows anyone to access, change and distribute it.
-Organisations use inner source to apply open source practices internally.
+Open source is software where the source is publicly available. This allows anyone to access, change and distribute it. Organisations use inner source to apply open source practices internally.
+
+#### Environmental benefit: 
+Reduce redundancy, improves efficiency and promotes sustainable coding.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more"
 }) }}
 
 * * *
@@ -149,16 +149,22 @@ Organisations use inner source to apply open source practices internally.
 
 Caching temporarily stores frequently accessed data in a designated area (called a "cache"). This enables faster access to that data.
 
+#### Environmental benefit: 
+Reduce unnecessary data transfer, server load and energy consumption.
+
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more"
 }) }}
 
 * * *
 
-### (vi) Encourage asynchronous patterns and transactions
+### (vi) Design for asynchronous patterns and transactions
 
 Asynchronous patterns and transactions allow tasks to run independently of one-another. 
 
+#### Environmental benefit: 
+Enables workloads to run when grid is greener.
+
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more"
 }) }}

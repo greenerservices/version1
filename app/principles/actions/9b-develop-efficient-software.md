@@ -5,50 +5,50 @@ title: 9b. Develop efficient software
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: 9b. Develop efficient software
-  parent:  9. Develop and test for efficient engineering
+  parent:  9. Develop and test for efficiency
 ---
 
-Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Build on the good practice guidance described in Principle 8 'Design for greener architecture, data and security' and consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application as it is developed. 
 
-## Lead Roles
+### Likely Lead Roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+Developer
 
 * * *
 
 ## Sub-actions
 
-[8b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[8b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[8b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[9b.i Consider server side rendering](#(i)-consider-server-side-rendering)
+[9b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
+[9b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[9b.iv Use content delivery networks](#(iv)-use-content-delivery-networks)
 
 * * *
 
 ###  (i) Consider server side rendering
 
-Server-side rendering (SSR) is a technique that involves rendering a web page on a server upfront before sending it to the user’s browser. This can save energy relative to client-side rendering (CSR), where the browser generates the content after receiving the raw data from the server.
+Server-side rendering (SSR) renders a web page on a server before sending it to the user’s browser. This is different to client-side rendering (CSR), where the browser gets raw data from a server to generate content.
 
-Static site generation (SSG) can also be used to ‘pre-build’ webpages and eliminate the need for server-side processing.
+#### Environmental benefit: 
+Using server-side rendering reduces processing and energy use.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
-  summaryText: "Read more about server side rendering",
+  summaryText: "Read more",
   text: "Some placeholder text"
 }) }}
 * * *
 
 ###  (ii) Utilise lazy loading
 
-Lazy loading is a technique that delays the loading of resources until they are needed, such as when users scroll to them on a page, thereby saving data transfer and associated energy use. 
+Lazy loading delays the loading of resources until they are needed, such as when users scroll to them on a page.
 
 #### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+Lazy loading can save on data transfer and energy use for the majority of users.
 
 {{ govukDetails({
-  summaryText: "Read more about lazy loading",
+  summaryText: "Read more",
   html: "
 
 #### Current level of adoption
@@ -82,8 +82,30 @@ Guidance on implementing lazy loading:
 
 ### (iii) Utilise caching where possible
 
-Caching is the process of storing a copy of data in a temporary location. Caching techniques can focus on the browser, Content Delivery Networks (CDN) and Application Programme Interfaces (API).
+Caching temporarily stores frequently accessed data in a designated area ("cache") to enable faster access to it. Caching can focus on:
+
+• the browser
+• Content Delivery Networks (CDN)
+• Application Programming Interfaces (API)
+
+#### Environmental benefit: 
+Using caching can reduce unnecessary data transfer and server load, cutting energy consumption.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more",
+  text: "Some placeholder text"
+}) }}
+
+* * *
+
+### (iv) Use content delivery networks
+
+Content delivery networks (CDNs) are a network of servers that cache static content as close to users as possible.
+
+#### Environmental benefit: 
+Using content delivery networks reduce web traffic helping cut energy use.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}

@@ -1,36 +1,35 @@
 ---
 homepage: false
 layout: main
-title: 9b. Develop efficient software
+title: 9c. Create an efficient testing approach
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 9b. Develop efficient software
-  parent:  9. Develop and test for efficient engineering
+  key: 9c. Create an efficient testing approach
+  parent:  9. Develop and test for efficiency
 ---
 
-Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Efficient testing serves to reduce energy consumption.
 
-## Lead Roles
+### Likely Lead Roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+QA & Testing, Developer
 
 * * *
 
 ## Sub-actions
 
-[8b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[8b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[8b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[9c. (i) Adopt a shift-left testing approach ](#(i)-adopt-a-shift-left-testing-approach)
+[9c. (ii) Make use of asynchronous testing](#(ii)-make-use-of-asynchronous-testing)
+[9c. (iii) Optimise test scripts](#(iii)-optimise-test-scripts)
+[9c. (iv) Consider server side rendering](#(i)-consider-server-side-rendering)
+[9c. (v) Utilise lazy loading](#(ii)-utilise-lazy-loading)
+[9c. (vi) Utilise caching where possible](#(iii)-utilise-caching-where-possible)
 
 * * *
 
-###  (i) Consider server side rendering
+###  (i) Adopt a shift-left testing approach
 
-Server-side rendering (SSR) is a technique that involves rendering a web page on a server upfront before sending it to the user’s browser. This can save energy relative to client-side rendering (CSR), where the browser generates the content after receiving the raw data from the server.
-
-Static site generation (SSG) can also be used to ‘pre-build’ webpages and eliminate the need for server-side processing.
+Shift-Left (test earlier) is accepted good practice to avoid energy intensive rework and also Shift-Right (test in live environments) enables identification of runtime inefficiencies.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
