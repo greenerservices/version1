@@ -8,82 +8,92 @@ eleventyNavigation:
   parent:  10. Operate a greener service
 ---
 
-Various approaches can be adopted to reduce the energy consumption of both the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
+Placeholder
 
-## Lead Roles
+### Likely Lead Roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+Service owner, business analyst, delivery manager
 
 * * *
 
 ## Sub-actions
 
-[10b. (i) Consider server side rendering](#(i)-consider-server-side-rendering)
-[10b. (ii) Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[10b. (iii) Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[10b. (i) Set Service Level Objectives that balance performance, reliability and sustainability](#(i)-set-service-level-objectives-that-balance-performance,-reliability-and-sustainability)
+[10b. (ii) Continue to optimise and refactor new code](#(ii)-continue-to-optimise-and-refactor-new-code)
+[10b. (iii) Use spot instances](#(iii)-use-spot-instances)
+[10b. (iv) Turn off unneeded resources](#(iv)-turn-off-unneeded-resources)
+[10b. (v) Schedule carbon aware updates](#(v)-schedule-carbon-aware-updates)
 
 * * *
 
-###  (i) Consider server side rendering
+###  (i) Set Service Level Objectives that balance performance, reliability and sustainability
 
-Server-side rendering (SSR) is a technique that involves rendering a web page on a server upfront before sending it to the user’s browser. This can save energy relative to client-side rendering (CSR), where the browser generates the content after receiving the raw data from the server.
+A service level objective (SLO) is an agreed target for a particular service over a period of time.  SLOs can build upon sustainability non-functional requirements (NFRs) to balance performance, reliability and sustainability targets.
 
-Static site generation (SSG) can also be used to ‘pre-build’ webpages and eliminate the need for server-side processing.
+#### Environmental benefit: 
+Optimised code reduces resources and energy used. 
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
-  summaryText: "Read more about server side rendering",
+  summaryText: "Read more",
   text: "Some placeholder text"
 }) }}
+
 * * *
 
-###  (ii) Utilise lazy loading
+### (ii) Continue to optimise and refactor new code
 
-Lazy loading is a technique that delays the loading of resources until they are needed, such as when users scroll to them on a page, thereby saving data transfer and associated energy use. 
+Refactoring is the process of restructuring code, without affecting its original functionality. It can make code more efficient, cleaner and reusable.
 
 #### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+Optimised code reduces resources and energy used. 
 
 {{ govukDetails({
-  summaryText: "Read more about lazy loading",
-  html: "
-
-#### Current level of adoption
-
-This sub-action is a new one to implement.  
-
-***
-  
-#### Co-benefits
-
-User experience: Lazy loading can improve initial page loading times and optimise memory usage, especially for applications with large datasets. 
-
-#### Trade-offs
- 
-Number of requests: Lazy loading may mean the browser has to send multiple requests to the server for content as some users interact with a page. 
-Development time: It may also mean additional code needs to be added to instruct the browser how to lazy load. 
-
-#### Implementation
-
-Guidance on implementing lazy loading:
-[https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices](https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices)
-
-#### Further reading 
-
-[https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/](https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/)
-
-"
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}
 
 * * *
 
-### (iii) Utilise caching where possible
+### (iii) Use spot instances
 
-Caching is the process of storing a copy of data in a temporary location. Caching techniques can focus on the browser, Content Delivery Networks (CDN) and Application Programme Interfaces (API).
+Spot instances are unused cloud capacity that can be used at reduced prices. Using spot instances requires workloads with flexible start and end times.
+
+#### Environmental benefit: 
+Use spot instances to help cloud providers to improve data centre utilisation.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more",
+  text: "Some placeholder text"
+}) }}
+
+* * *
+
+### (iv) Turn off unneeded resources
+
+Turn off all environments out of hours. This should be the default pattern for all non-production environments.
+
+Switch off or decommission environments when they are longer in use. This can include testing, QA or pre-production environments.
+
+#### Environmental benefit: 
+Use spot instances to help cloud providers to improve data centre utilisation.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  text: "Some placeholder text"
+}) }}
+
+* * *
+
+### (v) Schedule carbon aware updates
+
+Rather than patching immediately, schedule updates to take advantage of low carbon electricity.
+
+#### Environmental benefit: 
+Updates scheduled when there is lower-carbon electricty available.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}
