@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  9. Develop and test for efficiency
 ---
 
-Build on the good practice guidance described in Principle 8 'Design for greener architecture, data and security' and consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application as it is developed. 
+Build on the good practice guidance described in Principle 8 'Design for greener architecture, data and security' and consider further approaches to reduce the energy consumption of the ‘front end’ (the user-facing part) and the ‘back end’ of a website or application.
 
 ### Likely Lead Roles
 
@@ -18,10 +18,10 @@ Developer
 
 ## Sub-actions
 
-[9b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[9b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[9b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
-[9b.iv Use content delivery networks](#(iv)-use-content-delivery-networks)
+[9b. (i) Consider server side rendering](#(i)-consider-server-side-rendering)
+[9b. (ii) Utilise lazy loading](#(ii)-utilise-lazy-loading)
+[9b. (iii) Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[9b. (iv) Use content delivery networks](#(iv)-use-content-delivery-networks)
 
 * * *
 

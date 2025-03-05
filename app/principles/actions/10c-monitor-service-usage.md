@@ -10,80 +10,61 @@ eleventyNavigation:
 
 Monitor the usage of a service.
 
-## Lead Roles
+### Likely Lead Roles
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+Platform team, business analysis, service owner
+
+
 
 * * *
 
 ## Sub-actions
 
-[8b.i Consider server side rendering](#(i)-consider-server-side-rendering)
-[8b.ii Utilise lazy loading](#(ii)-utilise-lazy-loading)
-[8b.iii Utilise caching where possible](#(iii)-utilise-caching-where-possible)
+[10c. (i) Ensure measurement tooling is available](#(i)-ensure)
+[10c. (ii) Measure per transaction](#(ii)-utilise-lazy-loading)
+[10c. (iii) Apply tagging to resources](#(iii)-utilise-caching-where-possible)
+[10c. (iv) Measure application performance](#(iii)-utilise-caching-where-possible)
 
 * * *
 
-###  (i) Consider server side rendering
-
-Server-side rendering (SSR) is a technique that involves rendering a web page on a server upfront before sending it to the user’s browser. This can save energy relative to client-side rendering (CSR), where the browser generates the content after receiving the raw data from the server.
-
-Static site generation (SSG) can also be used to ‘pre-build’ webpages and eliminate the need for server-side processing.
+###  (i) Ensure measurement tooling is available
+Hosting platforms should provide access to tools or data to measure cost and emissions. Use service level objectives (SLOs) to set up automated reporting and dashboards.   
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
 {{ govukDetails({
-  summaryText: "Read more about server side rendering",
+  summaryText: "Read more",
   text: "Some placeholder text"
 }) }}
+
 * * *
 
-###  (ii) Utilise lazy loading
-
-Lazy loading is a technique that delays the loading of resources until they are needed, such as when users scroll to them on a page, thereby saving data transfer and associated energy use. 
-
-#### Environmental benefit: 
-This sub-action is likely to level medium levels of environmental benefit.
+###  (ii) Measure per transaction
+Define key metrics for reporting like energy usage and carbon emissions. Measuring on a per transaction basis for workloads will support data-driven decision-making.  
 
 {{ govukDetails({
-  summaryText: "Read more about lazy loading",
-  html: "
-
-#### Current level of adoption
-
-This sub-action is a new one to implement.  
-
-***
-  
-#### Co-benefits
-
-User experience: Lazy loading can improve initial page loading times and optimise memory usage, especially for applications with large datasets. 
-
-#### Trade-offs
- 
-Number of requests: Lazy loading may mean the browser has to send multiple requests to the server for content as some users interact with a page. 
-Development time: It may also mean additional code needs to be added to instruct the browser how to lazy load. 
-
-#### Implementation
-
-Guidance on implementing lazy loading:
-[https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices](https://cloudinary.com/guides/automatic-image-cropping/server-side-rendering-benefits-use-cases-and-best-practices)
-
-#### Further reading 
-
-[https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/](https://www.cloudflare.com/en-gb/learning/performance/what-is-lazy-loading/)
-
-"
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}
 
 * * *
 
-### (iii) Utilise caching where possible
+### (iii) Apply tagging to resources
 
-Caching is the process of storing a copy of data in a temporary location. Caching techniques can focus on the browser, Content Delivery Networks (CDN) and Application Programme Interfaces (API).
+Tagging resources builds on good FinOps practice. It enables granular reporting of consumption and emissions.
 
 {{ govukDetails({
-  summaryText: "Read more about caching"
+  summaryText: "Read more",
+  text: "Some placeholder text"
+}) }}
+
+* * *
+
+### (iv) Measure application performance
+
+Continue measuring performance to check the impact of other changes on delivery.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  text: "Some placeholder text"
 }) }}

@@ -1,35 +1,36 @@
 ---
 homepage: false
 layout: main
-title: 8a. Use data to inform technology choices from the start
+title: 7b. Design lightweight digital pages
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 8b. Use data to inform technology choices from the start
-  parent:  8. Design for greener architecture, data and security
+  key: 7b. Design lightweight digital pages
+  parent:  7. Design for greener user journeys across all channels
 ---
 
-The right data can allow us to embed environmental sustainability into technology decisions from the start, saving on the impacts of adapting approaches later in a project.
+The size of webpages affects the data that is transferred to a user device. Data transfer has implications for electricity consumption. Lightweight pages have environmental, general usability and inclusivity benefits.
 
 ### Lead Roles
 
-Solution architect, technical architect
+Interaction designer, developer, content designer
 
 * * *
 
 ## Sub-actions
 
-[8a. (i) Forecast the environmental impact of services and workloads at the solution architecture design stage](#(i)-forecast-the-environmental-impact-of-services-and-workloads-at-the-solution-design-stage)
-[8a. (ii) Design for monitoring upfront ](#(ii)-design-for-monitoring-upfront)
+[7b. (i) Set page weight budgets](#(i)-set-page-weight-budgets)
+[7b. (ii) Design for lightweight multimedia](#(ii)-design-for-lightweight-multimedia)
+[7b. (iii) Design for lightweight forms](#(iii)-design-for-lightweight-forms)
 * * *
 
-###  (i) Forecast the environmental impact of services and workloads at the solution architecture design stage
+###  (i) Set page weight budgets
 
-Forecast the impact of services and workloads at the solution architecture design stage.
+A page weight budget is an upper limit of the size of a webpage, measured in bytes.
 
-This includes their carbon footprint but is not limited to that. You should use this to inform technology choices and design decisions.  
+Page weight budgets encourage close consideration of what is essential for users with small screen sizes or low bandwidth.   
 
 #### Environmental benefit: 
-Placeholder
+Setting an limit on page sizes helps prevent bloat and save on data transfer and energy usage.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -39,14 +40,32 @@ Placeholder
 }) }}
 * * *
 
-###  (ii) Design for monitoring upfront
+###  (ii) Design for lightweight multimedia
 
-Build in consumption and emissions monitoring from the start of the project. You should tag resources where possible.
+Images, videos and animation are frequently the most significant contributors to page weight. 
 
-Think of 'measurable by design' like 'secure by design'. Add energy measurability upfront instead of adding it later.
+There are a range of approaches to reduce the impact of multimedia, including:
+
+• only creating multimedia when there is a clear rationale for it
+• choosing appropriate formats and compressing multimedia
+• disabling autoplay on video content
 
 #### Environmental benefit: 
-Placeholder
+Limiting the use and size of multimedia reduces data transfer.
+
+{{ govukDetails({
+  summaryText: "Read more",
+  html: "Placeholder"
+}) }}
+
+* * *
+
+###  (iii) Design for lightweight forms
+
+Lightweight forms are designed to be simple and have the minimum functionality required. 
+
+#### Environmental benefit: 
+Designing lightweight forms means processing requires fewer resources. 
 
 {{ govukDetails({
   summaryText: "Read more",

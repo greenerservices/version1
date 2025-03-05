@@ -5,16 +5,14 @@ title: 9d. Run testing efficiently
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: 9d. Run testing efficiently
-  parent:  9. Develop and test for efficient engineering
+  parent:  9. Develop and test for efficiency
 ---
 
-Choose efficient approaches to the running of testing. 
 
-## Lead Roles
+Choose efficient approaches to testing. 
 
-<p class="govuk-body"><strong class="govuk-tag">
-  Developer
-</strong></p>
+### Lead Roles
+Developer
 
 * * *
 
@@ -80,4 +78,4 @@ Turning off testing environments when not in use cuts energy consumption.
 {{ govukDetails({
   summaryText: "Read more",
   text: "Some placeholder text"
-}) }}x
+}) }}
