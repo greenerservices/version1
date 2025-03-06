@@ -13,7 +13,7 @@ Government can make a whole range of interventions, from. Further reading in gov
 Government as a System Toolkit, Policy Lab
 
 
-### Lead Roles
+## Lead Roles
 
 Policy, policy design
 
@@ -21,8 +21,8 @@ Policy, policy design
 
 ## Sub-actions
 
-[1a. (i) Consider the full range of online and offline interventions](#(i)-consider-the-full-range-of-online-and-offline-interventions)
-[1a. (ii) Model outcomes of different interventions](#(ii)-model-outcomes-of-different-interventions)
+[1c. (i) Consider the full range of online and offline interventions](#(i)-consider-the-full-range-of-online-and-offline-interventions)
+[1c. (ii) Model outcomes of different interventions](#(ii)-model-outcomes-of-different-interventions)
 * * *
 
 ###  (i) Consider the full range of online and offline interventions

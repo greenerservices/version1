@@ -15,7 +15,7 @@ You should understand the problem you are trying to solve based on:
 You should use focused research in the early stages of your project. Continue to research and learning should as prototypes are developed and iterated.
 
 
-### Lead Roles
+## Lead Roles
 
 User researcher
 
@@ -23,9 +23,9 @@ User researcher
 
 ## Sub-actions
 
-[1a. (i) Conduct research with array of stakeholders](#(i)-conduct-research-with-array-of-stakeholders)
-[1a. (ii) Map the problem space as a system](#(ii)-map-the-problem-space-as-a-system)
-[1a. (ii) Share research on users and the wider context of your project](#(iii)-share-research-on-users-and-the-wider-context-of-your-project)
+[1b. (i) Conduct research with array of stakeholders](#(i)-conduct-research-with-array-of-stakeholders)
+[1b. (ii) Map the problem space as a system](#(ii)-map-the-problem-space-as-a-system)
+[1b. (ii) Share research on users and the wider context of your project](#(iii)-share-research-on-users-and-the-wider-context-of-your-project)
 * * *
 
 ###  (i) Conduct research with array of stakeholders

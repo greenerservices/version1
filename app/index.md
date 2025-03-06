@@ -32,7 +32,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 2\. Create a sustainability strategy
-[Read more](#)
+[Read more](principles/2-create-a-sustainability-strategy)
 
 * * *
 
