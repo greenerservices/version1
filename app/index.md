@@ -28,7 +28,7 @@ These principles have been developed through an open and collaborative process i
 
 * * *
 ## 1\. Understand the problem and policy intent
-[Read more](#)
+[Read more](principles/1-understand-the-problem-and-policy-intent)
 * * *
 
 ## 2\. Create a sustainability strategy
