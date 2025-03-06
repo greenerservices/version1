@@ -9,17 +9,13 @@ eleventyNavigation:
 ---
 Increasing the lifespan of service end and user devices reduces environmental impacts. Use remanufactured or recycled technology where possible.
 
-### Likely Lead Roles
-
-Service designer, interaction designer, content designer
-
 * * *
 
 ## Sub-actions
 
-[6a. (i) Use remanufactured equipment where possible](#(i)-use-established-service-and-design-patterns)
-[6b. (ii)  Maximise the lifespan of hardware](#(ii)-use-progressive-enhancement)
-[6c. (iii) Have a plan for the end of life](#(iii)-consider-pace0of-service-and-response-times)
+[6a. (i) Use remanufactured equipment where possible](#(i)-use-remanufactured-equipment-where-possible)
+[6a. (ii)  Maximise the lifespan of hardware](#(ii)-maximise-the-lifespan-of-hardware)
+[6a. (iii) Have a plan for end of life](#(iii)-have-a-plan-for-end-of-life)
 
 * * *
 
@@ -34,11 +30,11 @@ Reduces the impacts of purchasing new.
 
 {{ govukDetails({
   summaryText: "Read more",
-  text: "Some placeholder text"
+  text: "Coming soon!"
 }) }}
 * * *
 
-###  (ii) Use progessive enhancement
+###  (ii) Maximise the lifespan of hardware
 
 Maintain and manage equipment to increase the lifespan of hardware. This reduces the need for replacements.
 
@@ -47,12 +43,12 @@ Reduces the impacts of replacing hardware.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 
 * * *
 
-###  (iii) Consider 'pace' of service and response times
+###  (iii) Have a plan for end of life
 
 Make a plan to retire all service equipment. 
 
@@ -63,10 +59,10 @@ When assessing options for disposal, consider:
 • recycling equipment that cannot be reused
 
 #### Environmental benefit: 
-Services with a slower pace often require fewer resources to deliver.
+Reusing, refurbishing or recycling equipment at the end of its life save on the environmental impacts of manufacturing new equipment from virgin materials.
 
 {{ govukDetails({
   summaryText: "Read more",
-  html: "Placeholder"
+  html: "Coming soon!"
 }) }}
 

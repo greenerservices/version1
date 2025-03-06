@@ -1,10 +1,10 @@
 ---
 homepage: false
 layout: main
-title: 8. Design for greener architecture, data and security
+title: 5. Take a greener approach to AI and software tools
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 8. Design for greener architecture, data and security
+  key: 5. Take a greener approach to AI and software tools
   parent: Principles
 ---
 
@@ -15,15 +15,9 @@ Greener approaches to architecture, data and security maximise efficiency and re
 </div>
 
 ## Actions
-[8a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
-[8b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
-[8c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
-[8d. Optimise your cloud computing service model](/principles/actions/8d-optimise-your-cloud-computing-service-model)
-[8e. Optimise workloads](principles/actions/8e-optimise-workloads)
-[8f. Optimise network architecture for efficient scale](principles/actions/8f-optimise-network-architecture-for-efficient-scale)
-[8g. Consider data collection](principles/actions/8g-consider-data-collection)
-[8h. Consider data storage and management](principles/actions/8h-consider-data-storage-and-management)
-[8i. Consider security controls](principles/actions/8i-consider-security-controls)
+[5a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
+[5b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
+[5c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
 
 * * *
 

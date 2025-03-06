@@ -47,7 +47,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 5\. Take a greener approach to AI and software tools
-[Read more](#)
+[Read more](principles/5-take-a-greener-approach-to-AI-and-software-tools)
 
 * * *
 
