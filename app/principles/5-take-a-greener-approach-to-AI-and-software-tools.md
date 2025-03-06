@@ -7,23 +7,17 @@ eleventyNavigation:
   key: 5. Take a greener approach to AI and software tools
   parent: Principles
 ---
+AI can have a large carbon footprint. The primary impacts include:
 
-Greener approaches to architecture, data and security maximise efficiency and reduce waste.
-
-<div class="govuk-inset-text app-wcag-callout">
-  <p class="govuk-body">These actions can generally be applied to on-premises systems as well as cloud.</p>
-</div>
+• high energy consumption due to large data centres
+• large water use for cooling
+• discarded hardware creating electronic waste
+• potential pollution from the mining of raw materials for AI chips
 
 ## Actions
-[5a. Use data to inform technology choices from the start](/principles/actions/8a-use-data-to-inform-technology-choices-from-the-start)
-[5b. Use sustainable design patterns](/principles/actions/8b-use-sustainable-design-patterns)
-[5c. Build and reuse common components](/principles/actions/8c-build-and-reuse-common-components)
-
-* * *
-
-## Likley lead roles
-
-Technical architect, data architect, data architect
+[5a. Take a green approach to AI used by the service](/principles/actions/5a-take-a-green-approach-to-ai-used-by-the-service)
+[5b. Take a green approach to AI tools used by the team](/principles/actions/5b-take-a-green-approach-to-ai-tools-used-by-the-team)
+[5c. Use greener software tools](/principles/actions/5c-use-greener-software-tools)
 
 * * *
 
@@ -31,9 +25,6 @@ Technical architect, data architect, data architect
 
 <p class="govuk-body"><strong class="govuk-tag">
   Efficiency
-</strong></p>
-<p class="govuk-body"><strong class="govuk-tag">
-  Carbon Awareness
 </strong></p>
 
 * * *
@@ -46,12 +37,7 @@ Placeholder
 
 ## Further reading
 
-The Green Software Foundation have developed a set of patterns and techniques to reduce the environmental impacts of digital services. These are broken down by 'web' and 'cloud'.
-
-The W3C's draft Web Sustainability Guidelines include comprehensive recommendations for reducing the environmental impacts of websites and digital products. Guidance comes under the following categories: user experience design, web development, hosting and infrastructure and business and product management considerations.
-Handbook of Sustainable Design of Digital Services
-
-The Handbook of Sustainable Design of Digital Services, known as GR491, was created in France by the 'Institute for Sustainable IT'. It covers a range of recommendations for delivering digital services with reduced environmental footprints.
+Placeholder
 
 
 

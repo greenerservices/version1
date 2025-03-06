@@ -5,33 +5,41 @@ title: 5a. Take a green approach to AI used by the service
 includeInBreadcrumbs: true
 eleventyNavigation:
   key: 5a. Take a green approach to AI used by the service
-  parent:  5. Take a greener approach to hardware
+  parent:  5. Take a greener approach to AI and software tools
 ---
-Increasing the lifespan of service end and user devices reduces environmental impacts. Use remanufactured or recycled technology where possible.
+AI can help meet sustainability goals. It might help increase efficiency by reducing costs, emissions and waste by monitoring:
 
-### Likely Lead Roles
+• energy consumption
+• hardware use
+• data storage
 
-Service designer, interaction designer, content designer
+AI might also help analyse data to support services, for example satellite of weather data.
+
+But AI is also resource hungry. For example, training models use large amounts of water. The AI Playbook highlights that:
+
+• the resource consumption used by some AI technologies can present risks
+• it is usually more sustainable to use an appropriate pre-trained AI model than to train your own.
+• generative AI can be expensive, it should not be used for tasks that can be done by other technologies
 
 * * *
 
 ## Sub-actions
 
-[6a. (i) Use established service and design patterns](#(i)-use-established-service-and-design-patterns)
-[6b. (ii) Use progessive enhancement](#(ii)-use-progressive-enhancement)
-[6c. (iii) Consider pace of service and response times](#(iii)-consider-pace0of-service-and-response-times)
+[5a. (i) Be clear on use case for AI](#(i)-be-clear-on-the-use-case-for-ai)
+[5a. (ii) Choose the appropriate size model](#(ii)-choose-the-appropriate-size-model)
+[5a. (iii) Reuse existing models where possible](#(iii)-reuse-existing-models-where-possible)
+[5a. (iv) Carefully choose supplier and region](#(iv)-carefully-choose-supplier-and-region)
 
 * * *
 
-###  (i) Use established service and design patterns
+###  (i) Be clear on the use case for AI
 
-Patterns can be divided into:
+Be clear on the use case for GenAI/LLMs and whether an alternative non-generative AI approach e.g. image recognition, natural language processing would be more appropriate.
 
-- A design pattern is a general solution to a common problem in software design
-- A service patterns provides a solution to common service design problem or user task
+[AI Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#using-ai-safely-and-responsibly): 'Assess the environmental impact of training and/or deploying your AI system before commencing development. Consider whether the impact represents a reasonable trade-off between benefits and energy consumption, and whether a less energy-intensive system might be able to achieve the same or similar results.'   
 
 #### Environmental benefit: 
-Common design and service patterns are familiar for users. They help users quickly navigate and complete tasks.
+Placeholder.
 
 {% from "govuk/components/details/macro.njk" import govukDetails %}
 
@@ -41,12 +49,14 @@ Common design and service patterns are familiar for users. They help users quick
 }) }}
 * * *
 
-###  (ii) Use progessive enhancement
+###  (ii) Choose the appropriate size model
 
-Progressive enhancement is a way of building websites and page where base functionality and content works in html alone. Enhancements are then built on top of this base.
+Services will use AI for different tasks. Small AI models can be trained for a specific task, are cost effective, quick (as there is less data for them to reference) and they can be run on basic hardware (such as a PC or phone).
+
+Having good AI evaluation/performance metrics will allow teams to make effective choices about the smallest model they can 'get away with' using.
 
 #### Environmental benefit: 
-Websites using progressive enhancement perform well across different devices and network condition. This helps users complete their journeys successfully.
+Placeholder
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -55,14 +65,12 @@ Websites using progressive enhancement perform well across different devices and
 
 * * *
 
-###  (iii) Consider 'pace' of service and response times
+###  (iii) Reuse existing models where possible
 
-The pace of a service is the speed or rate it is delivered at. This includes response time, processing time and task completion time.
-
-Faster services can need more resources. For example, consider how soon users need a response or outcome and if this could be delivered the next day.
+Consider building on an existing model rather than starting a new one from scratch.
 
 #### Environmental benefit: 
-Services with a slower pace often require fewer resources to deliver.
+Placeholder.
 
 {{ govukDetails({
   summaryText: "Read more",
@@ -71,18 +79,18 @@ Services with a slower pace often require fewer resources to deliver.
 
 * * *
 
-###  (iv) Consider appropriate service signposting and search engine optimisation
+###  (iv) Carefully choose supplier and region
 
-Search engine optimisation (SEO) is a key factor in helping users find the service they need. A page with good SEO is a webpage that is optimized for search engines and ultimately will rank well on search engine results pages (SERPs) when users search for related terms. 
+Choosing the right AI supplier and location is important. You can reduce the carbon footprint by training models in low-carbon regions or times of day.
 
-Good SEO helps users find entry points to services. 
+Keep in mind the other environmental impacts of AI, especially water use. Always consider regional differences. For example. water use will have a different impact in Scotland than Suffolk.
 
-Understand when to signpost users to other content, for example guidance or related services.
+Use third-party auditors to help select the most environmentally-friendly supplier.
+
+Teams might be able to swap a well-known model for a more sustainable and similarly-effective option (e.g. DistilBERT vs BERT) - especially if they have the service performance metrics to support their decision
 
 #### Environmental benefit: 
-Good SEO helps users find the pages and services they need quickly, thereby reducing resource consumption. 
-
-Content that is easy to understand helps users quickly achieve their goals. This will reduce energy usage.
+Placeholder.
 
 {{ govukDetails({
   summaryText: "Read more",
