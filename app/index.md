@@ -52,7 +52,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 6\. Take a greener approach to hardware
-[Read more](#)
+[Read more](principles/6-take-a-greener-approach-to-hardware)
 
 * * *
 
