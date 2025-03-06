@@ -22,7 +22,7 @@ Service designer, interaction designer, content designer
 
 [8a. (i) Use established service and design patterns](#(i)-use-established-service-and-design-patterns)
 [8b. (ii) Use progessive enhancement](#(ii)-use-progressive-enhancement)
-[8c. (iii) Consider pace of service and response times](#(iii)-consider-pace0of-service-and-response-times)
+[8c. (iii) Consider pace of service and response times](#(iii)-consider-pace-of-service-and-response-times)
 [8d. (iv) Consider appropriate service signposting and search engine optimisation](#(iv)-consider-appropraite-service-signposting-and-search-engine-optimisation)
 
 * * *
@@ -59,7 +59,7 @@ Websites using progressive enhancement perform well across different devices and
 
 * * *
 
-###  (iii) Consider 'pace' of service and response times
+###  (iii) Consider pace of service and response times
 
 The pace of a service is the speed or rate it is delivered at. This includes response time, processing time and task completion time.
 
