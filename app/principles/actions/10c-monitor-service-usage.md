@@ -8,7 +8,7 @@ eleventyNavigation:
   parent:  10. Operate a greener service
 ---
 
-Monitor the usage of a service.
+Continue measuring performance to check the impact of other changes on delivery.
 
 ### Likely Lead Roles
 
