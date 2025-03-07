@@ -42,7 +42,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 4\. Work with partners who can support greener goals
-[Read more](#)
+[Read more](principles/4-work-with-partners-who-can-support-greener-goals)
 
 * * *
 
