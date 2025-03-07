@@ -7,8 +7,9 @@ eleventyNavigation:
   key: 4a. Select suppliers who can support your Greening Government Commitment goals
   parent:  4. Select partners who can support your greener goals
 ---
-The Greening Government Commitments set cross-government targets for carbon reduction from ICT, water use.
+The Greening Government Commitments lay out the actions UK government departments and their agencies will take to reduce their impacts on the environment.
 
+Businesses commonly set broad sustaiability goals under the 'ESG' framework. For larger organisations, reporting on Scope 1 (direct emissions from sources owned or controlled by the company) and Scope 2 (indirect emissions from the generation of purchased energy) is mandatory.
 * * *
 
 ## Sub-actions
@@ -20,11 +21,9 @@ The Greening Government Commitments set cross-government targets for carbon redu
 
 * * *
 
-###  (i) Be clear on the use case for AI
+###  (i) Ensure suppliers include their corporate sustainability goals in bids and planning
 
-Be clear on the use case for GenAI/LLMs and whether an alternative non-generative AI approach e.g. image recognition, natural language processing would be more appropriate.
-
-[AI Playbook for the UK Government](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government/artificial-intelligence-playbook-for-the-uk-government-html#using-ai-safely-and-responsibly): 'Assess the environmental impact of training and/or deploying your AI system before commencing development. Consider whether the impact represents a reasonable trade-off between benefits and energy consumption, and whether a less energy-intensive system might be able to achieve the same or similar results.'   
+An ESG strategy covers environmental and social impact, and governance. Sustainability goals should outline how short and log term targets will be reached.
 
 #### Environmental benefit: 
 Placeholder.
@@ -37,11 +36,13 @@ Placeholder.
 }) }}
 * * *
 
-###  (ii) Choose the appropriate size model
+###  (ii) Choose suppliers that have committed to carbon reduction plans and Science Based Targets across their supply chains
 
-Services will use AI for different tasks. Small AI models can be trained for a specific task, are cost effective, quick (as there is less data for them to reference) and they can be run on basic hardware (such as a PC or phone).
+Carbon emission reduction targets will form part of an organisation's ESG strategy. A Carbon Reduction Plan provides a visible way to measure your supply chain’s impact on your organisation’s carbon footprint
 
-Having good AI evaluation/performance metrics will allow teams to make effective choices about the smallest model they can 'get away with' using.
+For any size of contract you should check suppliers:
+- have committed to meeting the government's NetZero targets
+- published a carbon reduction plan
 
 #### Environmental benefit: 
 Placeholder
@@ -53,9 +54,9 @@ Placeholder
 
 * * *
 
-###  (iii) Reuse existing models where possible
+###  (iii) Choose suppliers that align with government measurement and reporting methodology for digital
 
-Consider building on an existing model rather than starting a new one from scratch.
+Standard methodlogies for reporting. These are being developed in UK government. [More detail to follow]
 
 #### Environmental benefit: 
 Placeholder.
@@ -67,15 +68,14 @@ Placeholder.
 
 * * *
 
-###  (iv) Carefully choose supplier and region
+###  (iv) Choose suppliers with comprehensive reporting
 
-Choosing the right AI supplier and location is important. You can reduce the carbon footprint by training models in low-carbon regions or times of day.
+Transparent reporting on sustainability goals means stakeholders can:
 
-Keep in mind the other environmental impacts of AI, especially water use. Always consider regional differences. For example. water use will have a different impact in Scotland than Suffolk.
+follow a supplier's ESG impacts
+check progress on a supplier's ESG goals
 
-Use third-party auditors to help select the most environmentally-friendly supplier.
-
-Teams might be able to swap a well-known model for a more sustainable and similarly-effective option (e.g. DistilBERT vs BERT) - especially if they have the service performance metrics to support their decision
+Reports should be accessible to the public and regularly updated.
 
 #### Environmental benefit: 
 Placeholder.
