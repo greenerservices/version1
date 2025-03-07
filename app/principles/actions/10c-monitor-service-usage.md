@@ -14,8 +14,6 @@ Continue measuring performance to check the impact of other changes on delivery.
 
 Platform team, business analysis, service owner
 
-
-
 * * *
 
 ## Sub-actions
