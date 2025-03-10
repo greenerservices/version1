@@ -7,7 +7,7 @@ eleventyNavigation:
   key: 4d. Select build partners with experience of delivering greener services
   parent:  4. Work with partners who can support greener goals
 ---
-AI can help meet sustainability goals. It might help increase efficiency by reducing costs, emission
+Suppliers may have experience in delivering more environmental sustainable services.
 
 * * *
 
@@ -20,7 +20,7 @@ AI can help meet sustainability goals. It might help increase efficiency by redu
 
 ###  (i) Choose suppliers with track record of delivering greener services
 
-Check that suppliers:
+Where possible, work with build partners Check that suppliers:
 
 have a record of delivering more sustainable services 
 can show case studies or examples of services already built

@@ -7,7 +7,7 @@ eleventyNavigation:
   key: 4c. Select greener data centre providers
   parent:  4. Work with partners who can support greener goals
 ---
-Data centre and infrastructure providers differ.
+Data centre providers may differ significantly in terms of the availability of renewable energy in the regions where their facilties are based and how they monitor and report on electricity consumption and water usage.
 
 * * *
 

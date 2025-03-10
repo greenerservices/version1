@@ -1,10 +1,10 @@
 ---
 homepage: false
 layout: main
-title: 4. Work with partners who can support your greener goals
+title: 3. Work with partners who can support your greener goals
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 4. Work with partners who can support your greener goals
+  key: 3. Work with partners who can support your greener goals
   parent: Principles
 ---
 Suppliers may provide a range of services, for example: dtvvdstg

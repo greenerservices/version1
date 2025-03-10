@@ -17,7 +17,7 @@ eleventyNavigation:
 
 * * *
 
-The Greener Service Principles are a set of guidelines for the design, delivery and operation of more environmentally sustainable government services.
+The Greener Service Principles are a set of guidelines for the design, delivery and operation of more environmentally sustainable services.
 
 These principles have been developed through an open and collaborative process involving colleagues from a wide range of disciplines across UK government and beyond. [Read more](#) on the process on the about page.
 
@@ -42,7 +42,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 4\. Work with partners who can support greener goals
-[Read more](principles/4-work-with-partners-who-can-support-greener-goals)
+[Read more](principles/4-work-with-partners-who-can-support-your-greener-goals)
 
 * * *
 
