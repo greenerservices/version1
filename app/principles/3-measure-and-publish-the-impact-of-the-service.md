@@ -1,42 +1,27 @@
 ---
 homepage: false
 layout: main
-title: 3. Work with partners who can support your greener goals
+title: 3. Measure and publish the impact of the service
 includeInBreadcrumbs: true
 eleventyNavigation:
-  key: 3. Work with partners who can support your greener goals
+  key: 3. Measure and publish the impact of the service
   parent: Principles
 ---
-Suppliers may provide a range of services, for example: dtvvdstg
+We need to measure the environmental impacts of our services in order to be confident our actions reducing these. Publishing our approaches to measurement and results is also a key step in developing a culture of transparency and learning.
 
-• hardware, software and infrastructure services (such as cloud providers)
-• design and delivery of services
-• operating a live service 
+<div class="govuk-inset-text app-wcag-callout">
+  <p class="govuk-body">If you are not yet able to accurately measure you service's emissions, make a start with what you can do and access. This could include tools to help with estimating impacts, using proxie measures, or following the approach of best practice examples and case studies.</p>
+</div>
 
-The rules around public sector procurement changed on 24 February 2025. The Procurement Act 2023 will improve and streamline procurement. This will support suppliers of all sizes, particularly small businesses, start-ups and social enterprises.
+What if we cannot quantify a service’s environmental impacts?
+
+If you are not yet able to accurately measure you service's emissions, make a start with what you can access. This could include tools to help with estimating impacts, using proxie measures, or following the approach of best practice examples to help reduce resource consumption. For example, only collect and store the information you need.
+
+NB: A cross-government working group is looking at standardised methods for measuring environmental impacts. This principle will updated with their outputs.
 
 ## Actions
-[4a. Select suppliers who can support your Greening Government Commitment goals](/principles/actions/4a-select-suppliers-who-can-support-your-Greening-Government-Commitment-goals)
-[4b. Select suppliers delivering on social value](/principles/actions/4b-select-suppliers-delivering-on-social-value)
-[4c. Select greener data centre providers](/principles/actions/4c-select-greener-data-centre-providers)
-[4d. Select build partners with experience of delivering greener services](/principles/actions/4d-select-build-partners-with-experience-of-delivering-greener-services)
-
-* * *
-
-## Environmental benefits
-
-<p class="govuk-body"><strong class="govuk-tag">
-  Efficiency
-</strong></p>
-<p class="govuk-body"><strong class="govuk-tag">
-  Hardware
-</strong></p>
-
-* * *
-
-## Tools and frameworks
-
-Placeholder
+[3a. Measure the impact of the service](/principles/actions/3a-measure-the-impact-of-the-service)
+[3b. Measure the impact of your team](/principles/actions/3c-measure-the-impact-of-your-team)
 
 * * *
 

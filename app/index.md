@@ -12,14 +12,14 @@ eleventyNavigation:
   tag: {
     text: "Version 1.0"
   },
-  html: 'Updated 5th March 2025. Help us improve it and <a class="govuk-link" href="#">give your feedback by email</a>.'
+  html: 'Updated 10th March 2025. Help us improve it and <a class="govuk-link" href="#">give your feedback by email</a>.'
 }) }}
 
 * * *
 
-The Greener Service Principles are a set of guidelines for the design, delivery and operation of more environmentally sustainable services.
+The Greener Service Principles are a set of guidelines for the design, development and operation of more environmentally sustainable services.
 
-These principles have been developed through an open and collaborative process involving colleagues from a wide range of disciplines across UK government and beyond. [Read more](#) on the process on the about page.
+These principles have been developed through an open and collaborative process involving colleagues from a wide range of disciplines across UK government and beyond.
 
 <div class="govuk-inset-text app-wcag-callout">
   <p class="govuk-body">In many cases, actions we can take to deliver more environmentally sustainable services build on what is already established best practice from a cost, usability, accessibility, reliability or other perspective.</p>
@@ -37,7 +37,7 @@ These principles have been developed through an open and collaborative process i
 * * *
 
 ## 3\. Measure and publish the impact of the service
-[Read more](#)
+[Read more](principles/3-measure-and-publish-the-impact-of-the-service)
 
 * * *
 

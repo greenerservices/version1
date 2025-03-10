@@ -54,11 +54,6 @@ The W3C's draft [Web Sustainability Guidelines](https://w3c.github.io/sustyweb/)
 
 The [Handbook of Sustainable Design of Digital Services](https://gr491.isit-europe.org/en/), known as GR491, was created in France by the 'Institute for Sustainable IT'. It covers a range of recommendations for delivering digital services with reduced environmental footprints.
 
-* * *
-
-## Tools and frameworks
-
-Placeholder
 
 
 
